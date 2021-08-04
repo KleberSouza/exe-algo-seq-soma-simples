@@ -15,8 +15,12 @@ Imprima a mensagem "SOMA" com todas as letras maiúsculas, com um espaço em bra
 SOMA = 2
 ```
 
-### Run command
-`make test`
+### Compilar o programa
+Para compilar o programa exeute o comando abaixo.
 
-### Notes
-- `gcc` can be used to compile and link C applications for use with existing test harnesses or C testing frameworks.
+`make main`
+
+### Executar o programa
+Para executar o programa execute o comando abaixo.
+
+`./main`
